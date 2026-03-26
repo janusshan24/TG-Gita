@@ -8,7 +8,7 @@ const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
 const WELCOME = {
   role: "assistant",
   content:
-    "Hare Krishna! 🙏 I am your guide to the Bhagavad-gita As It Is by Srila Prabhupada. " +
+    "Welcome! 🙏 I am your guide to the Bhagavad-gita " +
     "Ask me anything about its teachings — karma, dharma, bhakti, the nature of the soul, or any specific verse.",
   sources: [],
 };
